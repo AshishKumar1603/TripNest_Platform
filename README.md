@@ -5,7 +5,8 @@ HotelHub is a comprehensive full stack web application designed to enhance the t
 
 ## Screenshots
 
-<img width="1366" height="677" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/6b83e772-19dd-492c-8390-2fd1e7561a9a" />
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/492c23db-df31-4cf5-be9c-5408ff28ccf6" />
+
 
 
 
