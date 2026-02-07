@@ -1,5 +1,5 @@
 {
-  "name": "hotelhub-monolith",
+  "name": "TripNest-monolith",
   "version": "1.0.0",
   "scripts": {
     "install-all": "npm install && cd frontend && npm install && cd ../Server && npm install",
